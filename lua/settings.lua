@@ -22,7 +22,12 @@ opt.mouse = ""
 opt.guicursor = ""
 opt.scrolloff = 5
 
--- extra
-opt.wrap = false
+
+-- Extra
 opt.termguicolors = true
 opt.conceallevel = 1
+opt.wrap = true
+
+-- Case
+opt.ignorecase = true
+opt.smartcase = true
